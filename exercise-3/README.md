@@ -8,4 +8,14 @@ A `heading` with the name of the command
 An example of how it can be used (with appropriate code highlighting)
 A _nested list_ of information about the command (i.e., things that it does, or how it can be used)
 
+# **cd**
+-----------------------------------------------------------------------
+The `cd [directory]` is used to switch to another directory. An example:
+```
+cd [Desktop]
+```
+- how it works
+  - changes from one directory to another
+    - very useful
+  
 See `complete` branch for answers.
